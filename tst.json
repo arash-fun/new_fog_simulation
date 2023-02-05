@@ -1,0 +1,12 @@
+{
+    "data": [],
+    "directed": false,
+    "multigraph": false,
+    "elements": {
+        "nodes": [
+            {
+                "data": {
+                    "id": "0",
+                    "value": 0,
+                    "name": "0",
+                    "X": 
